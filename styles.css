@@ -1,0 +1,205 @@
+body {
+
+    line-height: 2.0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.custom-padding-sides {
+
+    padding-left: 0px;
+    padding-right: 0px;
+
+}
+
+
+@media (min-width: 768px) {
+
+    .custom-padding-sides {
+
+        padding-left: 50px;
+        padding-right: 50px;
+    
+    }
+
+}
+
+@media (min-width: 992px) {
+
+    .custom-padding-sides {
+
+        padding-left: 300px;
+        padding-right: 300px;
+    
+    }
+
+}
+
+@media (min-width: 1200px) {
+
+    .custom-padding-sides {
+
+        padding-left: 400px;
+        padding-right: 400px;
+    
+    }
+
+}
+
+
+@media (max-width: 767px ) {
+
+    .my-text-align-center {
+
+        text-align: center;
+
+
+    }
+    
+}
+
+
+@media (min-width: 280px) {
+
+    .custom-margin-top-bottom {
+
+        margin-top: 50px;
+        margin-bottom: 50px;
+
+    }
+
+
+}
+
+@media (min-width: 576px) {
+
+    .custom-margin-top-bottom {
+
+        margin-top: 70px;
+        margin-bottom: 70px;
+
+    }
+
+
+}
+
+@media (min-width: 768px) {
+
+    .custom-margin-top-bottom {
+
+        margin-top: 90px;
+        margin-bottom: 90px;
+
+    }
+
+
+}
+
+
+@media (min-width: 280px) {
+
+    .custom-padding-top-bottom {
+
+        padding-top: 10px;
+        padding-bottom: 10px;
+
+
+    }
+
+}
+
+@media (min-width: 768px) {
+
+    .custom-padding-rigth-left {
+
+        padding-right: 30px;
+       
+
+    }
+
+}
+
+
+@media (min-width: 992px) {
+
+    .custom-padding-rigth-left {
+
+        padding-right: 45px;
+       
+
+    }
+
+}
+
+@media (min-width: 1200px) {
+
+    .custom-padding-rigth-left {
+
+        padding-right: 90px;
+       
+
+    }
+
+}
+
+.my-own-hr {
+
+    width: 90%;
+
+}
+
+.my-own-card-text {
+
+    font-size: 2.0em;
+
+
+}
+
+
+#jumbotron-principal {
+
+    background-color: #E4572E;
+
+}
+
+.custom-button {
+
+    background-color: #E4572E;
+    border-color: white;
+    border-width: 1px;
+
+}
+
+.custom-card-border {
+
+    border-width: 3px;
+    border-color: #E4572E;
+    border-style: solid;
+
+}
+
+.custom-card-header-border {
+
+    border-bottom-width: 3px;
+    border-bottom-color: #E4572E;
+    border-bottom-style: solid;
+
+}
+
+.custom-nav-bar {
+
+    background-color: #E4572E;
+
+}
+
+.custom-color-text {
+
+    color: #E4572E;
+
+}
+
+a:hover {
+
+    color: #E4572E;
+
+
+}
